@@ -1,8 +1,7 @@
 TratonGossink/README.md
 
 ## Hi there 👋
-
--- My name is Traton Gossink. I am an iOS developer that is constantly aspiring to be better. I have been working with iOS development for almost 2 years now and have enjoyed every step of this journey. 
+My name is Traton Gossink. I am an iOS developer that is constantly aspiring to be better. I have been working with iOS development for almost 2 years now and have enjoyed every step of this journey. 
 
 ### Preferred Tech Stacks
  Swift | SwiftUI | UIKit | Firebase
@@ -20,5 +19,5 @@ Contributed to issues [#5](https://github.com/mikaelacaron/Basic-Car-Maintenance
 - 🌱 I am currently learning more about ARKit. I think this will have more use cases as the future of VR progresses.
 
 #### A Little More About Me
-- ⚡I come from a very diversse background professionally and who I am. I have raced motocross for many years. 
+- ⚡I come from a very diverse background professionally and who I am. I have raced motocross for many years. 
 

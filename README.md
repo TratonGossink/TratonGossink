@@ -9,17 +9,16 @@ TratonGossink/README.md
 ### Other Used Tech Stacks
 CoreData | Cocoa Pods | SQLite | Python
 
+### Current Projects
 - 🛠️ I’m currently working on my own Grocery Gets app using SwiftData. This app is to serve as a checklist style app with expanding list features to keep things clean and straight to the point.  Even though many people are not using SwiftData yet, I am still excited to dive into new advancements in Swift to gain insight and experience.
 
-### Contributions / Hacktoberfest 2023 🎃
+## Hacktoberfest 2023 🎃
 
-Contributed to [Basic Car Maintenance]([url](https://github.com/mikaelacaron/Basic-Car-Maintenance)) for Hacktoberfest 2023 for Mikaela Caron.
+Contributed to issues [#5](https://github.com/mikaelacaron/Basic-Car-Maintenance/issues/5) & [#213](https://github.com/mikaelacaron/Basic-Car-Maintenance/issues/213) in [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance) for Hacktoberfest 2023 for [Mikaela Caron](https://github.com/mikaelacaron).
 
+### Learning Progress
 - 🌱 I am currently learning more about ARKit. I think this will have more use cases as the future of VR progresses.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+#### A Little More About Me
+- ⚡I come from a very diversse background professionally and who I am. I have raced motocross for many years. 
 

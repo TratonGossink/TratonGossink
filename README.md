@@ -8,7 +8,8 @@ My name is Traton Gossink. I am an iOS developer that is constantly aspiring to 
 ### Other Used Tech Stacks
 CoreData | Cocoa Pods | SQLite | Python
 
-### Current Projects🛠️ I’m currently working on my own Grocery Gets app using SwiftData. This app is to serve as a checklist style app with expanding list features to keep things clean and straight to the point.  Even though many people are not using SwiftData yet, I am still excited to dive into new advancements in Swift to gain insight and experience.
+### Current Projects
+🛠️ I’m currently working on my own Grocery Gets app using SwiftData. This app is to serve as a checklist style app with expanding list features to keep things clean and straight to the point.  Even though many people are not using SwiftData yet, I am still excited to dive into new advancements in Swift to gain insight and experience.
 
 ## Hacktoberfest 2023 🎃
 
